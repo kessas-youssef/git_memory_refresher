@@ -1,0 +1,23 @@
+git init : start git ! (master branch is created)
+
+git status : status of files (--short => A=staged - ??=untracked - M=modified files - D=deleted files).
+
+git add : stage one change or more (using --all).
+
+git commit -m "a message" : commit with the staged changes (-a => commit without staging in case of small changes).
+
+git log : history of commits.
+
+git xyzCommand -help : help with xyzCommand.
+
+git help --all : everthing in git.
+
+git branch : see current branch.
+
+git branch new_branch : creates new_branch (ps : master branch stays the current one even after creating new branch)
+
+git checkout other_branch : switch to other_branch.
+
+git merge other_branch : merges other_branch to the current one.
+
+git branch -d some_branch : deletes some_branch.

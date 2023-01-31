@@ -40,3 +40,4 @@ git merge origin/master : merge remote with local repo.
 
 git pull : combines fetch & merge to make pulling remote repo to local easily on one command.
 
+git push : push changes from local to remote repo.

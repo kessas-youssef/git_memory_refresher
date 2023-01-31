@@ -1,3 +1,5 @@
+********** Git recap : **********
+
 git init : start git ! (master branch is created)
 
 git status : status of files (--short => A=staged - ??=untracked - M=modified files - D=deleted files).

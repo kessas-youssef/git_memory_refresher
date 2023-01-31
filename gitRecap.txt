@@ -34,3 +34,7 @@ git log origin/master : log commits on remote repo.
 
 git diff origin/master : see differences between remote and local repos.
 
+git merge origin/master : merge remote with local repo.
+
+git pull : combines fetch & merge to make pulling remote repo to local easily on one command.
+

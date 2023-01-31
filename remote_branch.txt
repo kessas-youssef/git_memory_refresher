@@ -1,0 +1,1 @@
+This file is to test pulling remote branch to local repo.

@@ -21,3 +21,16 @@ git checkout other_branch : switch to other_branch.
 git merge other_branch : merges other_branch to the current one.
 
 git branch -d some_branch : deletes some_branch.
+
+git config user.name (or .email) : edit user infos.
+
+git remote add origin https://github.com/kessas-youssef/git_memory_refresher.git : link local repository to remote repository.
+
+git push --set-upstream origin master : push for the first time to a remote repository.
+
+git fetch origin : updates to see what has changed on GitHub.
+
+git log origin/master : log commits on remote repo.
+
+git diff origin/master : see differences between remote and local repos.
+

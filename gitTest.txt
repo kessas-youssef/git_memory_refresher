@@ -3,3 +3,4 @@ My name is Youssef.
 this line is to causes merge conflict.
 this line is also to cause merge conflict when merging New_feature branch.
 git fetch
+How about this final git pull --rebase and push
